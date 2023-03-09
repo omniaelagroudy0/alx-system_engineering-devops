@@ -1,2 +1,2 @@
 #!/bin/bash
- vi  103-Star_Warstelnet towel blinkenlights.nl
+telnet towel blinkenlights.nl
